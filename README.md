@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @unique-prog
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python and C++.
